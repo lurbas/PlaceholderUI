@@ -1,4 +1,4 @@
-package com.lucasurbas.placeholerui;
+package com.lucasurbas.placeholderui;
 
 import android.content.Context;
 
